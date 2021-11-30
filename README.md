@@ -9,3 +9,4 @@
 | 4_TestPlan | Documents with test plans and procedures |
 | 5_Simulation | Documents with simulation file and outputs |
 | 6_ImagesandVideos | Documents with output images |
+| 7_REPORT | All readme files | 
