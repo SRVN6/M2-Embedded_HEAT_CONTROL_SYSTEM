@@ -1,5 +1,8 @@
 # M2-Embedded_HEAT CONTROL SYSTEM
 
+
+[![CI](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml)
+
 ## Folder Structure 
 | Folder | Description |
 | ------ | ----------- |
