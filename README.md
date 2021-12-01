@@ -8,6 +8,8 @@
 
   cpp yml [![CI](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml)
   
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b47d3f050c8840c38a09bb67283f2763)](https://www.codacy.com/gh/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
+  
   
 
 ## Folder Structure 
