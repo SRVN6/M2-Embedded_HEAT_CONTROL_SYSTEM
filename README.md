@@ -3,6 +3,13 @@
 
 [![CI](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml)
+
+
+  cpp yml [![CI](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml)
+  
+  
+
 ## Folder Structure 
 | Folder | Description |
 | ------ | ----------- |
