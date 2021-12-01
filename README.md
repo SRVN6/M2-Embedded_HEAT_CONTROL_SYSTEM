@@ -1,6 +1,7 @@
 # M2-Embedded_HEAT CONTROL SYSTEM
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45747bcca6c74d499e18357ed2efdfca)](https://app.codacy.com/gh/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM?utm_source=github.com&utm_medium=referral&utm_content=SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/main.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/SRVN6/M2-Embedded_HEAT_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml)
